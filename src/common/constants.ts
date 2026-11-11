@@ -1,0 +1,1 @@
+export const UUID = 'UUID'; // bech ken tbadel esmha tbadlou ken hna mouch f kol module
